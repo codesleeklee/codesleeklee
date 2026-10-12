@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codesleeklee, AKA Emmanuel Johnny Koffi
-- 👀 I’m interested in Java, Flutter and Mobile Dev
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Emmanuel Johnny Koffi
+- 👀 I’m interested in Bubble.io and coded full stack apps.
+- 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on Mobile Projects
 - 📫 How to reach me emmakoffi.j@gmail.com
 
